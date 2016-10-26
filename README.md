@@ -11,7 +11,11 @@ To a bookmark and save the bookmarklet.
 
 ![Bookmarklet Creation](images/bookmarklet1.png "Bookmarklet Creation")
 
-To use display Patent Profanity terms open you website with the text and click the analysis.
+To use display profane terms in IP world.
+
+- Open your Website
+- Click the created bookmark 
+- Voila! Enjoy!
 
 ![Bookmarklet Usage](images/bookmarklet2.png "Bookmarklet Usage")
 
