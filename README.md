@@ -5,7 +5,7 @@ Web detector for Patent Profanity terms.
 
 Copy the following text:
 
-    javascript:(function(){var d=document,s=d.createElement('script');s.src='https://cdn.rawgit.com/PauloPaixao/PatentProfanity/master/profanity.src.min.js';d.body.appendChild(s);}())
+    javascript:(function(){var d=document,s=d.createElement('script');s.src='https://paulopaixao.github.io/PatentProfanity/profanity.src.min.js';d.body.appendChild(s);}())
 
 To a bookmark and save the bookmarklet.
 
